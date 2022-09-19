@@ -1,4 +1,4 @@
-### Hey! Welcome to my GitHub!👋
+### Hey, welcome to my GitHub!👋
 
 🙂 My name is Advait Borkar and I am a junior studying Computer Science at Rutgers University -- New Brunswick  
 💻 I am working at the New Jersey Department of Health as an IT intern for Fall 2022  
