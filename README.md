@@ -1,18 +1,14 @@
-### Hey! 👋
+### Hey! Welcome to my GitHub!👋
 
-Welcome to my GitHub! I am a junior studying Computer Science at Rutgers University -- New Brunswick. I love collaborating with my friends to create projects in my free time, and I've added them here to share with everyone. Hopefully you enjoy what you see!
+🙂 My name is Advait Borkar and I am a junior studying Computer Science at Rutgers University -- New Brunswick
+💻 I am working at the New Jersey Department of Health as an IT intern for Fall 2022
+🔭 On the side I’m currently working on making an application of the board game Gobblet Gobblers - a variation of Tic Tac Toe
+🛠 Self-learning Python
+🪂 Fun fact: I've been skydiving!
 
-- 🔭 I’m currently working on making an application of the game Gobblet Gobblers - a variation on Tic Tac Toe
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been skydiving!
-
-📫 How to reach me:
-
-LinkedIn: linkedin.com/in/advaitborkar
-
+📫 How to reach me:  
+LinkedIn: linkedin.com/in/advaitborkar    
 Email: advaitborkar@gmail.com
-
 <!--
 **AdvaitBorkar/AdvaitBorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
